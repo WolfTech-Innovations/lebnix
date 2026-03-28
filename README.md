@@ -3,6 +3,12 @@
 [![Download Lebnix Debian](https://img.shields.io/sourceforge/dm/wolfos.svg)](https://sourceforge.net/projects/wolfos/files/latest/download)
 [![Lebnix Build](https://github.com/WolfTech-Innovations/lebnix/actions/workflows/lebnix-build6.yml/badge.svg)](https://github.com/WolfTech-Innovations/lebnix/actions/workflows/lebnix-build6.yml)
 ![Logo](https://github.com/WolfTech-Innovations/lebnix/blob/af1a6cdd55bbca271bb86f887f6d1cde6a331a87/logo-1.jpg)
+
+
+![nox](https://github.com/WolfTech-Innovations/noxmarket-global-marketplace-platform/blob/0f7797761343147a8e9eb0e765937a8cef974941/github_readmebranding/Screenshot_20260328-134136.png)
+# Nox -- The PC Part market
+## [Nox](https://nox.lebnix.org)
+
 ## Credits
 
 Lebnix LXDE is built on amazing open source projects:
